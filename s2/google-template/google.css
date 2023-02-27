@@ -1,0 +1,30 @@
+body {
+  background-color: #202124;
+}
+
+.title-container {
+}
+
+.title {
+}
+
+.search-input-container {
+}
+
+.search-input {
+  background-color: #202124;
+  outline: none;
+  /* border color: #5f6368; */
+}
+
+.search-buttons-container {
+}
+
+.search-buttons {
+  background-color: #303134;
+  /* border color:  #303134*/
+}
+
+.search-buttons:hover {
+  /* border color: #5f6368 */
+}
